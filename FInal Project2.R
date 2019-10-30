@@ -18,3 +18,5 @@ sd(crimedata$Property.Crime.Rate..Per.100.000.)
 cor.test(crimedata$Poverty.Rate.2014.2016, crimedata$Property.Crime.Rate..Per.100.000.)
 
 t.test(crimedata$Poverty.Rate.2014.2016,crimedata$Property.Crime.Rate..Per.100.000.)
+
+#Test for Extra commentary
